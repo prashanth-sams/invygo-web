@@ -1,4 +1,4 @@
-# Invigo Test Automation
+# Invygo Web Test Automation Challenge
 
 
 ### Overview
